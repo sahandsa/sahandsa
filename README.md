@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sahandsa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in music. work
+- 🌱 I’m currently learning hse
+- 💞️ I’m looking to collaborate on coding
+- 📫 How to reach me 
+- with email
 
 <!---
 sahandsa/sahandsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
